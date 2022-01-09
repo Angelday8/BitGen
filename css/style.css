@@ -1,0 +1,15 @@
+header{
+    height: 50px;
+}
+
+.widget-container{
+
+}
+
+.action-button{
+    min-width: 120px;
+    margin: 10px;
+}
+.title{
+    margin-top: 10px;
+}
